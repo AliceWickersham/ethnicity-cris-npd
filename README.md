@@ -32,7 +32,7 @@ Wickersham, A., Das-Munshi, J., Ford, T., Jewell, A., Stewart, R., & Downs, J. (
 An earlier version of the article can also be found as a pre-print here:
 
 ```
-Wickersham, A., Das-Munshi, J., Ford, T., Stewart, R., & Downs, J. (2022). Completeness and consistency of ethnicity categorisations in administrative data: A comparison between linked health and education datasets. MedRxiv, doi:10.1101/2022.08.01.22278265
+Wickersham, A., Das-Munshi, J., Ford, T., Stewart, R., & Downs, J. (2022). Completeness and consistency of ethnicity categorisations in administrative data: A comparison between linked health and education datasets. MedRxiv. doi:10.1101/2022.08.01.22278265
 ```
 
 
