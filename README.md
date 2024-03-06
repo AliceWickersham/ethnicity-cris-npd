@@ -1,7 +1,7 @@
 
 # CRIS and NPD cleaning and analysis
 
-This repository contains supporting code for "[The impact of inconsistent ethnicity recordings on estimates of inequality in child health and education data: A data linkage study of Child and Adolescent Mental Health services in South London.](ALICE INSERT LINK HERE)" 
+This repository contains supporting code for "[The impact of inconsistent ethnicity recordings on estimates of inequality in child health and education data: A data linkage study of Child and Adolescent Mental Health services in South London.](https://doi.org/10.1136/bmjopen-2023-078788)" 
 
 It contains a Stata Do file for cleaning and comparing ethnicity data in Clinical Record Interactive Search ([CRIS](https://www.maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/)) versus the National Pupil Database ([NPD](https://www.gov.uk/government/collections/national-pupil-database)).
 
@@ -26,7 +26,7 @@ This code has been released under [GNU General Public License (v3)](https://www.
 Please cite our original article:
 
 ```
-ALICE ADD ARTICLE CITATION HERE
+Wickersham, A., Das-Munshi, J., Ford, T., Jewell, A., Stewart, R., & Downs, J. (2024). Impact of inconsistent ethnicity recordings on estimates of inequality in child health and education data: a data linkage study of Child and Adolescent Mental Health Services in South London. BMJ Open, 14, e078788. doi:10.1136/bmjopen-2023-078788
 ```
 
 An earlier version of the article can also be found as a pre-print here:
